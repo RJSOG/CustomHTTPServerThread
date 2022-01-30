@@ -1,2 +1,3 @@
 # CustomHTTPServerThread
-Use HTTPServerThread Class to custom your HTTP server on python using threads
+
+Custom HTTP Server on Python using thread and request handler.
